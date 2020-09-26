@@ -1,0 +1,45 @@
+baseURL = "https://kanchipeetam.github.io/"
+title = "Śikha Parisad"
+enableRobotsTXT = true
+theme = "compose"
+enableGitInfo = false
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+#  menu items
+[[menu.main]]
+    name = "Śikha Samskaram"
+    weight = 2
+    url = "docs/"
+
+#  menu items
+[[menu.main]]
+    name = "Pancha Kaccham"
+    weight = 3
+    url = "panchakaccham/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = false
+    style = "monokai"
+    tabWidth = 2
+
+# Everything below this are Site Params
+
+[params]
+  author = "Sri Kanchi Kamakoti Peetam"
+  time_format_blog = "Monday, January 02, 2006"
+  time_format_default = "January 2, 2006"
+  darkMode = true # set to false to disable darkmode by default
+  [params.logo]
+    lightMode = "logo.svg"
+    darkMode = "logo.svg"
