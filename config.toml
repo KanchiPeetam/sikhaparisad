@@ -42,4 +42,4 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   darkMode = true # set to false to disable darkmode by default
   [params.logo]
     lightMode = "logo.svg"
-    darkMode = "logo.svg"
+    darkMode = "logo-dark.svg"
