@@ -18,6 +18,12 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     weight = 3
     url = "panchakaccham/"
 
+#  menu items
+[[menu.main]]
+    name = "Frequently Asked Questions"
+    weight = 3
+    url = "faq/"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

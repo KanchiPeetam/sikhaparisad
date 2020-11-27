@@ -13,6 +13,10 @@ Sushrut rishi, the foremost surgeon of ayurveda, describes the master sensitive 
 
 {{<gallery "images/ss1.jpg,images/ss2.jpg,images/ss3.jpg,images/ss4.jpg,images/ss5.jpg,images/ss6.jpg,images/ss7.jpg">}}
 
+Benefits of śikhā are summarized in a veda mantra.
+
+{{<audio "14e7oxnLJYrQ8Jr3z2RWMmgzua9W6GPq1">}}
+
 ## Sikha Procedure
 
 For sikha preparation certain procedure is followed. The following videos document this.
