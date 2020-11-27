@@ -17,9 +17,9 @@ Benefits of śikhā are summarized in a veda mantra.
 
 {{<audio "14e7oxnLJYrQ8Jr3z2RWMmgzua9W6GPq1">}}
 
-## Sikha Procedure
+## Kshoura Karma Procedure
 
-For sikha preparation certain procedure is followed. The following videos document this.
+The below set of videos show the procedure a grihasta should follow for kshoura karma.
 
 ```
 {{<youtube "BvIZ1_n7qXs">}}
