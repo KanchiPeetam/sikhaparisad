@@ -4,7 +4,7 @@ title: "Śikha Vandanam"
 
 For all nitya and naimithika karma observation, it is mandatory that the Śikha must be tied as a knot. Samavarta Smriti mentions, a twice-born (a dwija) who stands without washing his feet, or who performs the achamanam **without binding the tuft of his hair (Śikha)** on the crown or without putting on his sacred thread, is impure.
 
-## Sikha Tarpanam
+## Sikhodhakam
 
 Water squeezed out of a man’s upper cloth and water let down in from from the tip of the śikha alone reach in the form of tarpanam to our forefathers. The following sloka must be chanted during this process.
 
@@ -24,10 +24,3 @@ Water squeezed out of a man’s upper cloth and water let down in from from the 
 
 **तिष्ठ् देवि! शिखामध्ये तेजोव्रिद्धिम् कुरुष्व मे!!**
 
-## Untying Sikha
-
-For untying Śikha, the following mantra should be chanted.
-
-**गच्छंतु सकल देवा ब्रह्म विष्णु महेश्वरः**
-
-**तिष्ठत्वत्राचला लक्ष्मीः शिखामुक्तं करोम्यहम्**
