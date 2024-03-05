@@ -8,8 +8,9 @@ title = "Śikha Pariṣad - An initiative by Sri Kanchi Kamakoti Peetam"
 ## What is Śikha?
 
 **Śikha** means flame, powerful, ray of light, peak of a mountain. The śikha is tied back or knotted to perform religious rites. An untied śikha is a symbol of disgrace, impurity and mourning. This is not just specific only to the Brahmins but all Hindu men in ancient India had śikha. Scientifically, tying of hair applies pressure on certain parts of the head and brain and in turn results in higher levels of concentration.
-
-His Holiness **Sri Sri Sri Chandrasekharendra Saraswati Swami** (the 68th Acharya of [Sri Kanchi Kamakoti Peetam](http://kamakoti.org/)) said that:
+{{< /column >}}
+{{< column >}}
+His Holiness *Jagadguru Sri Sri Sri Chandrasekharendra Saraswati Shankaracharya Swami* (the 68th Acharya of [Sri Kanchi Kamakoti Peetam](http://kamakoti.org/)) said that:
 
 - -- Auspicious observances must always be done with śikha tied.
 - -- Śikha prevents accumulation of impurities.
@@ -19,9 +20,11 @@ His Holiness **Sri Sri Sri Chandrasekharendra Saraswati Swami** (the 68th Achary
 
 {{< /column >}}
 {{< column >}}
+![](/images/homecollage.jpg)
+{{< /column >}}
 
-{{< picture "homecollage.jpg" >}}
-
+{{< column >}}
+![](/images/homecollage2.jpg)
 {{< /column >}}
 {{< /block >}}
 
